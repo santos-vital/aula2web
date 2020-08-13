@@ -83,14 +83,14 @@
         grid-template-columns: 2fr 1fr 2fr;
         grid-template-rows: 350px 1fr;
         grid-template-areas: 
-        "konoha image image"
+        "Naruto-logo image image"
         "button texting texting";
         column-gap: 87px;
         row-gap: 86px;
     }
 
     .logo-container {
-        grid-area: konoha;
+        grid-area: Naruto-logo;
         text-align: initial;
         align-self: center; /* centraliza o conteúdo dentro do grid */
         margin: 0;
