@@ -16,20 +16,8 @@ div.galery-container
 /* formatação das imagens */
 div.galery-container img
 {
-  display: inline-block; /* exibição das imagens alinhadas */
+  display: inline-block; /* exibição das imagens lado a lado */
   margin: 3px;
   border: 1px solid #ffffff;
   height: 100px;
 }
-/* uma borda será exibida quando passar o mouse sobre a imagem */
-/*div.page-galery a:hover img {border: 1px solid #000000}*/
-/* formataçao do texto que servirá como legenda para as imagens */
-/*div.legenda
-{
-  text-align: center;
-  font-weight: normal;
-  width: 130px; /* define o tamanho da área em que será exibida a legenda -
-			se o valor for menor que a quantidade de caracteres, 
-			ocorre uma quebra de linha 
-  margin: 2px;
-}*/
